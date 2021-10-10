@@ -1,0 +1,7 @@
+C:\Users\Amya\source\repos\UC 2 Daily wage\UC 2 Daily wage\bin\Debug\UC 2 Daily wage.exe.config
+C:\Users\Amya\source\repos\UC 2 Daily wage\UC 2 Daily wage\bin\Debug\UC 2 Daily wage.exe
+C:\Users\Amya\source\repos\UC 2 Daily wage\UC 2 Daily wage\bin\Debug\UC 2 Daily wage.pdb
+C:\Users\Amya\source\repos\UC 2 Daily wage\UC 2 Daily wage\obj\Debug\UC 2 Daily wage.csproj.AssemblyReference.cache
+C:\Users\Amya\source\repos\UC 2 Daily wage\UC 2 Daily wage\obj\Debug\UC 2 Daily wage.csproj.CoreCompileInputs.cache
+C:\Users\Amya\source\repos\UC 2 Daily wage\UC 2 Daily wage\obj\Debug\UC 2 Daily wage.exe
+C:\Users\Amya\source\repos\UC 2 Daily wage\UC 2 Daily wage\obj\Debug\UC 2 Daily wage.pdb

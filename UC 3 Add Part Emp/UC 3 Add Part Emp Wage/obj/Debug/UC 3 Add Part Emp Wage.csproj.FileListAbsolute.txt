@@ -1,0 +1,7 @@
+C:\Users\Amya\source\repos\UC 3 Add Part Emp\UC 3 Add Part Emp Wage\bin\Debug\UC 3 Add Part Emp Wage.exe.config
+C:\Users\Amya\source\repos\UC 3 Add Part Emp\UC 3 Add Part Emp Wage\bin\Debug\UC 3 Add Part Emp Wage.exe
+C:\Users\Amya\source\repos\UC 3 Add Part Emp\UC 3 Add Part Emp Wage\bin\Debug\UC 3 Add Part Emp Wage.pdb
+C:\Users\Amya\source\repos\UC 3 Add Part Emp\UC 3 Add Part Emp Wage\obj\Debug\UC 3 Add Part Emp Wage.csproj.AssemblyReference.cache
+C:\Users\Amya\source\repos\UC 3 Add Part Emp\UC 3 Add Part Emp Wage\obj\Debug\UC 3 Add Part Emp Wage.csproj.CoreCompileInputs.cache
+C:\Users\Amya\source\repos\UC 3 Add Part Emp\UC 3 Add Part Emp Wage\obj\Debug\UC 3 Add Part Emp Wage.exe
+C:\Users\Amya\source\repos\UC 3 Add Part Emp\UC 3 Add Part Emp Wage\obj\Debug\UC 3 Add Part Emp Wage.pdb

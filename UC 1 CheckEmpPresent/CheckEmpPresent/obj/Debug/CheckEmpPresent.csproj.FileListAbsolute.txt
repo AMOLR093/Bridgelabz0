@@ -1,0 +1,9 @@
+C:\Users\Amya\source\repos\CheckEmpPresent\CheckEmpPresent\obj\Debug\CheckEmpPresent.csproj.AssemblyReference.cache
+C:\Users\Amya\source\repos\CheckEmpPresent\CheckEmpPresent\obj\Debug\CheckEmpPresent.csproj.CoreCompileInputs.cache
+C:\Users\Amya\source\repos\UC 1 CheckEmpPresent\CheckEmpPresent\obj\Debug\CheckEmpPresent.csproj.AssemblyReference.cache
+C:\Users\Amya\source\repos\UC 1 CheckEmpPresent\CheckEmpPresent\obj\Debug\CheckEmpPresent.csproj.CoreCompileInputs.cache
+C:\Users\Amya\source\repos\UC 1 CheckEmpPresent\CheckEmpPresent\bin\Debug\CheckEmpPresent.exe.config
+C:\Users\Amya\source\repos\UC 1 CheckEmpPresent\CheckEmpPresent\bin\Debug\CheckEmpPresent.exe
+C:\Users\Amya\source\repos\UC 1 CheckEmpPresent\CheckEmpPresent\bin\Debug\CheckEmpPresent.pdb
+C:\Users\Amya\source\repos\UC 1 CheckEmpPresent\CheckEmpPresent\obj\Debug\CheckEmpPresent.exe
+C:\Users\Amya\source\repos\UC 1 CheckEmpPresent\CheckEmpPresent\obj\Debug\CheckEmpPresent.pdb

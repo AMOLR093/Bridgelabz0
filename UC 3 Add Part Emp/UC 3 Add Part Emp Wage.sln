@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC 3 Add Part Emp Wage", "UC 3 Add Part Emp Wage\UC 3 Add Part Emp Wage.csproj", "{EC7B6E44-F980-4FF7-AED7-1D31AF93FDC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7B6E44-F980-4FF7-AED7-1D31AF93FDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7B6E44-F980-4FF7-AED7-1D31AF93FDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7B6E44-F980-4FF7-AED7-1D31AF93FDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7B6E44-F980-4FF7-AED7-1D31AF93FDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {038EEFB5-B6CB-4C7D-AFAA-D3C47B597A56}
+	EndGlobalSection
+EndGlobal
