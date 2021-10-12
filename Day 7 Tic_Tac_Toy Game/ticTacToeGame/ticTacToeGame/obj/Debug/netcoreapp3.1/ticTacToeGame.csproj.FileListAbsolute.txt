@@ -1,0 +1,14 @@
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\bin\Debug\netcoreapp3.1\ticTacToeGame.exe
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\bin\Debug\netcoreapp3.1\ticTacToeGame.deps.json
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\bin\Debug\netcoreapp3.1\ticTacToeGame.runtimeconfig.json
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\bin\Debug\netcoreapp3.1\ticTacToeGame.runtimeconfig.dev.json
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\bin\Debug\netcoreapp3.1\ticTacToeGame.dll
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\bin\Debug\netcoreapp3.1\ticTacToeGame.pdb
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\obj\Debug\netcoreapp3.1\ticTacToeGame.csproj.AssemblyReference.cache
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\obj\Debug\netcoreapp3.1\ticTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\obj\Debug\netcoreapp3.1\ticTacToeGame.AssemblyInfoInputs.cache
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\obj\Debug\netcoreapp3.1\ticTacToeGame.AssemblyInfo.cs
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\obj\Debug\netcoreapp3.1\ticTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\obj\Debug\netcoreapp3.1\ticTacToeGame.dll
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\obj\Debug\netcoreapp3.1\ticTacToeGame.pdb
+C:\Users\Amya\source\ticTacToeGame\ticTacToeGame\obj\Debug\netcoreapp3.1\ticTacToeGame.genruntimeconfig.cache
